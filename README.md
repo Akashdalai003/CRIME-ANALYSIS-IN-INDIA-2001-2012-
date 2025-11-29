@@ -5,6 +5,7 @@ from *2001 to 2012, containing **multiple States, **hundreds of Districts, and *
 The goal of this dashboard is to give an interactive, accurate, and advanced analytical view of crime trends across India.
 A complete semantic data model was built to support clean filtering, advanced KPIs, drilldowns, and performance-optimized reporting.
 
+![image alt](https://github.com/Akashdalai003/CRIME-ANALYSIS-IN-INDIA-2001-2012-/blob/7c3f3ae43508ad5eec5a2b3f2f1b3de24058f5c3/Screenshot%202025-11-29%20160720.png)
 🧹 *DATA CLEANING & TRANSFORMATION:*
 
 The original dataset required extensive cleaning to ensure accurate analytics.
