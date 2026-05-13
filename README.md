@@ -2,7 +2,7 @@ CRIME ANALYSIS DASHBOARD (2001–2012)
 
 GOOGLE DRIVE LINK :- https://drive.google.com/drive/folders/1i2zOWPiBK4Bv3zQ5vry1ls0nTuuzsn0G
 
-This project analyzes a comprehensive Indian crime dataset spanning 
+This project analyzes a comprehensive Indian crime dataset Spanning 
 from *2001 to 2012, containing **multiple States, **hundreds of Districts, and **various Crime Types* reported each year. 
 The goal of this dashboard is to give an interactive, accurate, and advanced analytical view of crime trends across India.
 A complete semantic data model was built to support clean filtering, advanced KPIs, drilldowns, and performance-optimized reporting.
